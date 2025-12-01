@@ -62,7 +62,7 @@ class Program
         Console.WriteLine("2. Agregar amistad");
         Console.WriteLine("3. Buscar amigos en común");
         Console.WriteLine("4. Ver amigos de una persona");
-        Console.WriteLine("5. Listar todas las personas");
+        Console.WriteLine("5. Listar todas las persona");
         Console.WriteLine("6. Mostrar matriz de adyacencia");
         Console.WriteLine("7. Salir");
         Console.Write("\nSelecciona una opción: ");
